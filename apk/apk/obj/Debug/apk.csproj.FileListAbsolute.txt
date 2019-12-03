@@ -1,0 +1,5 @@
+/Users/zhanbiju/Projects/apk/apk/bin/Debug/apk.exe
+/Users/zhanbiju/Projects/apk/apk/bin/Debug/apk.pdb
+/Users/zhanbiju/Projects/apk/apk/obj/Debug/apk.csprojAssemblyReference.cache
+/Users/zhanbiju/Projects/apk/apk/obj/Debug/apk.exe
+/Users/zhanbiju/Projects/apk/apk/obj/Debug/apk.pdb
