@@ -1,0 +1,5 @@
+/Users/zhanbiju/Projects/Poker/Poker/bin/Debug/Poker.exe
+/Users/zhanbiju/Projects/Poker/Poker/bin/Debug/Poker.pdb
+/Users/zhanbiju/Projects/Poker/Poker/obj/Debug/Poker.csprojAssemblyReference.cache
+/Users/zhanbiju/Projects/Poker/Poker/obj/Debug/Poker.exe
+/Users/zhanbiju/Projects/Poker/Poker/obj/Debug/Poker.pdb
